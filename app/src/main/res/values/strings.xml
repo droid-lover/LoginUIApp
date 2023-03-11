@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginUiApp</string>
+    <string name="instructions">Dont have an account yet? SIGN UP</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">LOGIN</string>
+</resources>
