@@ -1,4 +1,4 @@
-package com.nativemobilebits.loginuiapp
+package com.nativemobilebits.loginuiapp.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -8,6 +8,7 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
+import com.nativemobilebits.loginuiapp.R
 
 class MainActivity : AppCompatActivity() {
 
